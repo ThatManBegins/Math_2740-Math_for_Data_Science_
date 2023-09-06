@@ -1,5 +1,5 @@
 ## MATH 2740 - Mathematics of Data Science
 
-Files and slides for the MATH 2740 (Mathematics of Data Science) course, when taught by me ([Julien Arino](https://julien-arino.github.io/)).
+Math 2740 - Topics include linear algebra: least squares, singular value decomposition, principal components analysis, and graph theory: centrality, social network theory, clustering
 
-See the web version of this site [here](https://julien-arino.github.io/math-of-data-science/).
+https://github.com/julien-arino/math2740-of-data-science.git
